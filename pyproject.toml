@@ -1,0 +1,14 @@
+[project]
+name = "ai-scraper"
+version = "0.1.0"
+description = "Yet Another AI Scraper"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic>=2.10.6",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.9.6",
+]

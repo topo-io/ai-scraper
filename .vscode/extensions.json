@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "njqdev.vscode-python-typehint",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "charliermarsh.ruff"
+  ],
+  "unwantedRecommendations": [
+    "ms-python.pylint"
+  ]
+}
